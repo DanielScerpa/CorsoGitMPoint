@@ -1,0 +1,28 @@
+CORSO GIT MPOINT 19/11/21
+
+
+LINK REPOSITORY GITHUB DANIEL:
+https://github.com/DanielScerpa/CorsoGitMPoint.git
+
+
+Convenzione apertura Repository: prima cosa sul master (main):
+creare un file gitignore
+
+1) clicko su main --> Branch --> Add Branch (convenzione nome min)
+
+2) Edit --> Preferences --> Hosting Providers --> Add -->
+Generate API Token --> copio codice --> inserisco codice in Code --> Add (FINE)
+
+3) aggiungo file sul mio ramo ausiliario..vado nella cartella progetto
+e lo creo manualmente, dopodichè comparirà come Untracked
+Faccio CheckOut sul mio ramo (Importante) --> Commit --> do nome e faccio
+
+4)Pullo tutto per introdurre eventuali modifiche fatte da altri sui
+loro rami..
+MERGE Provato e Fatto OK
+
+
+5) SPUNTARE UN IMPOSTAZIONE CHE Dà MODO DI FARE UN FORCED PUSH:
+Edit --> Preferences --> Commands --> Push --> CHECK "Allow modifying pushed commits (e.g. forced-push)
+
+
