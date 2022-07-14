@@ -1,1 +1,2 @@
 label: aggiornato motore A
+label: mot B
